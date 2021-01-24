@@ -1,5 +1,4 @@
 # GameCpp
-The first game
 Ý tưởng:
 - Nhân vật nhảy lên các thanh màu xanh cao hơn để ăn điểm. Nếu rơi ra ngoài, nhảy vào thanh màu vàng hoặc rơi xuống dưới là thua.
 Cách chơi:
