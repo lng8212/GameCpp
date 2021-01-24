@@ -1,12 +1,15 @@
 # GameCpp
 Ý tưởng:  
 - Nhân vật nhảy lên các thanh màu xanh cao hơn để ăn điểm. Nếu rơi ra ngoài, nhảy vào thanh màu vàng hoặc rơi xuống dưới là thua.  
-Cách chơi:
+Cách chơi:  
 -Sử dụng phím mũi tên trái và phải để di chuyển nhân vật.  
-Chức năng:
+Chức năng:  
 -Menu.  
 -Game play.  
--Game over.  
+-Game over. 
+
+
+
 Ý NGHĨA CÁC CLASS:
 1. Menu:  
 - Thực hiện các chức năng như PLAY, EXIT, vv.  
