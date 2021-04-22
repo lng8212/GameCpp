@@ -4,9 +4,9 @@ Idea:
 How to play:  
 - Use the arrow keys on your keyboard to move Pepe.
 Function:  
--Menu.  
--Game play.  
--Game over. 
+- Menu.  
+- Game play.  
+- Game over. 
 
 
 
@@ -17,8 +17,8 @@ Meaning the class:
 - Use to create Pepe, color bars, string, background,.. Move and process it.
 - Reset original position, draw on screen. 
 3. Gameover:  
--Create Gameover window. 
--Include:  
+- Create Gameover window. 
+- Include:  
 + Score.
 + High score.  
 + Play again.  
