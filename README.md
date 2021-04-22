@@ -1,26 +1,34 @@
 # GameCpp
-Ý tưởng:  
-- Nhân vật nhảy lên các thanh màu xanh cao hơn để ăn điểm. Nếu rơi ra ngoài, nhảy vào thanh màu vàng hoặc rơi xuống dưới là thua.  
-Cách chơi:  
--Sử dụng phím mũi tên trái và phải để di chuyển nhân vật.  
-Chức năng:  
+Idea:  
+- Pepe jump up to green bar to get score. If he falls out or jump into orange bar or falling, you wil lose. 
+How to play:  
+- Use the arrow keys on your keyboard to move Pepe.
+Function:  
 -Menu.  
 -Game play.  
 -Game over. 
 
 
 
-Ý NGHĨA CÁC CLASS:
+Meaning the class:
 1. Menu:  
-- Thực hiện các chức năng như PLAY, EXIT, vv.  
+- Perform functions like PLAY, EXIT, vv.  
 2. Process:  
-- Dùng để tạo ra nhân vật, các thanh màu, string, background, vv. Di chuyển và xử lí chúng.  
-- Set lại vị trí ban đầu, draw ra màn hình.  
+- Use to create Pepe, color bars, string, background,.. Move and process it.
+- Reset original position, draw on screen. 
 3. Gameover:  
--Tạo cửa sổ Game over.  
--Gồm có:  
-+Điểm đạt được.  
-+Điểm cao.  
-+Chơi lại.  
+-Create Gameover window. 
+-Include:  
++ Score.
++ High score.  
++ Play again.  
 4. Source:  
--Class gốc (main). Tổng hợp lại các class ở trên, xử lí và display.  
+- Class main:  Perform all class above. Process and display.
+
+
+
+Menu: ![main](https://user-images.githubusercontent.com/69128515/115695326-e56f7280-a38b-11eb-8f1c-1abe919fbabb.png)
+
+Gameplay: ![gameplay](https://user-images.githubusercontent.com/69128515/115695589-24052d00-a38c-11eb-9f74-5de9fcc28415.png)
+
+Over: ![over](https://user-images.githubusercontent.com/69128515/115695759-45661900-a38c-11eb-88ba-06de87b3ee13.png)
