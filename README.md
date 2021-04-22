@@ -1,8 +1,10 @@
 # GameCpp
 Idea:  
 - Pepe jump up to green bar to get score. If he falls out or jump into orange bar or falling, you wil lose. 
+
 How to play:  
 - Use the arrow keys on your keyboard to move Pepe.
+
 Function:  
 - Menu.  
 - Game play.  
@@ -19,9 +21,9 @@ Meaning the class:
 3. Gameover:  
 - Create Gameover window. 
 - Include:  
-+ Score.
-+ High score.  
-+ Play again.  
+  + Score.
+  + High score.  
+  + Play again.  
 4. Source:  
 - Class main:  Perform all class above. Process and display.
 
